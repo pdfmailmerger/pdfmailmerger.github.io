@@ -1148,6 +1148,8 @@ video {
   max-width: 42rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .footer {
